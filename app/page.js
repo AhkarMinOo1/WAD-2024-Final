@@ -1,5 +1,6 @@
 "use client"
 import * as React from 'react';
+require('dotenv').config();
 
 export default function HomeV2() {
   return (
